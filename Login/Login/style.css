@@ -1,0 +1,21 @@
+
+body{
+    background-image: url(bg.jpg);
+
+    
+}
+
+.ui.text.container {
+width:500px;
+
+}
+
+.ui.segment{
+    padding: 9em 1em 12em 1em;
+    background-color: #f2e8cf;
+    
+}
+.ui.segment:first-child {
+    margin-top: 4em;
+}
+
